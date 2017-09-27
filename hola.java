@@ -5,4 +5,6 @@ public class hola {
 	}
 	System.out.println("Tengo 20 años");
 	}
+	System.out.println("Nací en Santo Domingo");
+	}
 }
