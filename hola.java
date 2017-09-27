@@ -3,4 +3,6 @@ public class hola {
 
 	System.out.println("Diego Antonio Almonte Zarzuela");
 	}
+	System.out.println("Tengo 20 años");
+	}
 }
