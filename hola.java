@@ -7,4 +7,6 @@ public class hola {
 	}
 	System.out.println("Nací en Santo Domingo");
 	}
+	System.out.println("Septiembre");
+	}
 }
